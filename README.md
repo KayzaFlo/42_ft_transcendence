@@ -1,3 +1,5 @@
+![Animation](https://github.com/KayzaFlo/42_ft_transcendence/assets/38004702/a6c0394d-a1a6-457f-9727-98244f31b8c2)
+
 # ft_transcendence
 
 This is our first web project, and we dove into it without any previous experience in web development.
